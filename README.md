@@ -1,1 +1,3 @@
-# Machine Learing Projects
+# Classis Machine Learing Projects
+
+*Refer to each indivizual project file for content descriptions*
